@@ -61,4 +61,4 @@ The dashboard helps compare email activity, engagement, and account status acros
 
 ## Dashboard Link
 
-*Looker Studio dashboard link will be added here.*
+https://datastudio.google.com/reporting/90362807-f536-4c10-87ac-f066a5c955bb 
